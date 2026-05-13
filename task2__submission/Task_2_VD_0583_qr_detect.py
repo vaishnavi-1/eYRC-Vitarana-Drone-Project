@@ -1,13 +1,5 @@
 #!/usr/bin/env python
 
-'''**********************************
-E-yantra
-Theme: Vitran Drone
-Task: task1B
-Purpose: QR code detaction
-Team ID : 0583
-Team name : !ABHIMANYU 
-**********************************'''
 
 
 from sensor_msgs.msg import Image
