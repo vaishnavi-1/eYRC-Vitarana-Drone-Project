@@ -5,8 +5,7 @@ E-yantra
 Theme: Vitran Drone
 Task: task3
 Purpose: Position controller
-Team ID : 0583
-Team name : !ABHIMANYU 
+
 **********************************'''
 
 # Importing the required libraries
