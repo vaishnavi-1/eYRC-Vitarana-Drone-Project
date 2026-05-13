@@ -2,11 +2,10 @@
 
 '''**********************************
 E-yantra
-Theme: Vitran Drone
+Theme: Vitarana Drone
 Task: task1B
 Purpose: QR code detaction
-Team ID : 0583
-Team name : !ABHIMANYU 
+
 **********************************'''
 
 
